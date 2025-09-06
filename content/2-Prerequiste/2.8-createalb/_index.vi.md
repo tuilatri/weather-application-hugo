@@ -79,5 +79,3 @@ pre : " <b> 2.8 </b> "
 
 *   Sau khi bạn kết nối với Backend và đăng tải dự án lên thì sẽ thấy được thấy được kết quả của bước sau
 *   Dán DNS name này vào trình duyệt. Nếu mọi thứ được cấu hình chính xác, bạn sẽ thấy thông báo: `Backend is running!`
-
-{{< figure src="/images/2.prerequisite/2.8-createalb/alb-test-success.png" title="Kiểm tra thành công qua DNS của ALB" >}}

@@ -61,6 +61,5 @@ pre : " <b> 2.10 </b> "
 
 {{< figure src="/images/2.prerequisite/2.10-createcloudfrontbe/cf-copy-domain.png" title="Copying the Distribution's Domain Name" >}}
 
+*   You will be able to see the result after you connect to the Backend and deploy the project in a later step.
 *   Paste this domain name into your browser. The returned result should be identical to when you accessed it via the ALB's DNS: `Backend is running!`.
-
-{{< figure src="/images/2.prerequisite/2.10-createcloudfrontbe/cf-test-success.png" title="Successful test via CloudFront" >}}

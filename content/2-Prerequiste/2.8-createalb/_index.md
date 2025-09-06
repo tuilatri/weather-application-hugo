@@ -79,5 +79,3 @@ pre : " <b> 2.8 </b> "
 
 *   You will be able to see the result after you connect to the Backend and deploy the project in a later step.
 *   Paste this DNS name into a browser. If everything is configured correctly, you will see the message: `Backend is running!`
-
-{{< figure src="/images/2.prerequisite/2.8-createalb/alb-test-success.png" title="Successful test via the ALB's DNS" >}}```

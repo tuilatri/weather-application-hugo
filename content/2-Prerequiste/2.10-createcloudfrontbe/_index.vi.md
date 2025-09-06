@@ -61,6 +61,5 @@ pre : " <b> 2.10 </b> "
 
 {{< figure src="/images/2.prerequisite/2.10-createcloudfrontbe/cf-copy-domain.png" title="Sao chép Domain Name của Distribution" >}}
 
+*   Sau khi bạn kết nối với Backend và đăng tải dự án lên thì sẽ thấy được thấy được kết quả của bước sau
 *   Dán domain name này vào trình duyệt. Kết quả trả về phải giống hệt như khi bạn truy cập qua DNS của ALB: `Backend is running!`.
-
-{{< figure src="/images/2.prerequisite/2.10-createcloudfrontbe/cf-test-success.png" title="Kiểm tra thành công qua CloudFront" >}}
