@@ -43,7 +43,3 @@ Kiến trúc hiện tại là một khởi đầu tuyệt vời. Dưới đây l
 #### **6. Tăng cường Bảo mật với AWS WAF**
 *   **Vấn đề:** Ứng dụng có thể bị tấn công bởi các lỗ hổng web phổ biến như SQL injection hoặc cross-site scripting (XSS).
 *   **Giải pháp:** Tích hợp **AWS WAF (Web Application Firewall)** với CloudFront hoặc Application Load Balancer. WAF giúp bảo vệ ứng dụng của bạn bằng cách lọc và chặn các lưu lượng truy cập độc hại.
-
-Hành trình của bạn với AWS chỉ mới bắt đầu. Với nền tảng vững chắc từ workshop này, bạn đã sẵn sàng để khám phá và chinh phục những dịch vụ và thử thách phức tạp hơn.
-
-**Chúc bạn thành công!**
