@@ -1,9 +1,16 @@
+baseURL = "https://weather-application-hugo.vercel.app/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+section = ["HTML", "RSS", "JSON"]
+taxonomy = ["HTML", "RSS", "JSON"]
+term = ["HTML", "RSS", "JSON"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
@@ -11,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  author = "trihaminh.working@gmail.com"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
