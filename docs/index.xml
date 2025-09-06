@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weather Application Project on AWS System Manager</title>
-    <link>//localhost:61083/</link>
+    <link>https://tuilatri.github.io/weather-application-hugo/</link>
     <description>Recent content in Weather Application Project on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:61083/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tuilatri.github.io/weather-application-hugo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,275 +2,275 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:61083/vi/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/"
+                href="https://tuilatri.github.io/weather-application-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/3-accessibilitytoinstances/3.1-public-instance/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/3-accessibilitytoinstances/3.1-public-instance/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/3-accessibilitytoinstances/3.1-public-instance/"
+                href="https://tuilatri.github.io/weather-application-hugo/3-accessibilitytoinstances/3.1-public-instance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/3-accessibilitytoinstances/3.1-public-instance/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/3-accessibilitytoinstances/3.1-public-instance/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.1-createvpc/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.1-createvpc/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.1-createvpc/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.1-createvpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.1-createvpc/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.1-createvpc/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/1-introduce/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/1-introduce/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/1-introduce/"
+                href="https://tuilatri.github.io/weather-application-hugo/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/1-introduce/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/1-introduce/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.2-modifysubnet/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.2-modifysubnet/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.2-modifysubnet/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.2-modifysubnet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.2-modifysubnet/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.2-modifysubnet/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/3-accessibilitytoinstances/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/3-accessibilitytoinstances/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/3-accessibilitytoinstances/"
+                href="https://tuilatri.github.io/weather-application-hugo/3-accessibilitytoinstances/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/3-accessibilitytoinstances/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/3-accessibilitytoinstances/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.3-createsg/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.3-createsg/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.3-createsg/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.3-createsg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.3-createsg/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.3-createsg/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/4-cleanup/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/4-cleanup/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/4-cleanup/"
+                href="https://tuilatri.github.io/weather-application-hugo/4-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/4-cleanup/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/4-cleanup/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.4-createec2/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.4-createec2/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.4-createec2/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.4-createec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.4-createec2/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.4-createec2/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/5-conclusion/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/5-conclusion/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/5-conclusion/"
+                href="https://tuilatri.github.io/weather-application-hugo/5-conclusion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/5-conclusion/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/5-conclusion/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.5-createami/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.5-createami/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.5-createami/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.5-createami/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.5-createami/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.5-createami/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.6-createlaunchtemplate/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.6-createlaunchtemplate/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.6-createlaunchtemplate/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.6-createlaunchtemplate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.6-createlaunchtemplate/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.6-createlaunchtemplate/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.7-createtargetgroup/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.7-createtargetgroup/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.7-createtargetgroup/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.7-createtargetgroup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.7-createtargetgroup/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.7-createtargetgroup/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.8-createalb/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.8-createalb/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.8-createalb/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.8-createalb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.8-createalb/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.8-createalb/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.9-createasg/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.9-createasg/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.9-createasg/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.9-createasg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.9-createasg/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.9-createasg/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.10-createcloudfrontbe/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.10-createcloudfrontbe/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.10-createcloudfrontbe/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.10-createcloudfrontbe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.10-createcloudfrontbe/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.10-createcloudfrontbe/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.11-creates3/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.11-creates3/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.11-creates3/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.11-creates3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.11-creates3/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.11-creates3/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/2-prerequiste/2.12-createcloudfrontfe/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.12-createcloudfrontfe/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/2-prerequiste/2.12-createcloudfrontfe/"
+                href="https://tuilatri.github.io/weather-application-hugo/2-prerequiste/2.12-createcloudfrontfe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/2-prerequiste/2.12-createcloudfrontfe/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/2-prerequiste/2.12-createcloudfrontfe/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/categories/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/categories/"
+                href="https://tuilatri.github.io/weather-application-hugo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/categories/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:61083/vi/tags/</loc>
+    <loc>https://tuilatri.github.io/weather-application-hugo/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:61083/tags/"
+                href="https://tuilatri.github.io/weather-application-hugo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:61083/vi/tags/"
+                href="https://tuilatri.github.io/weather-application-hugo/vi/tags/"
                 />
   </url>
 </urlset>
