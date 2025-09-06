@@ -12,18 +12,6 @@ Trong workshop này, bạn sẽ được hướng dẫn từng bước để xâ
 
 ![Weather App Preview](/images/default-fe.png) 
 
-### Nội dung
-
-1.  [Giới thiệu và Tổng quan kiến trúc](1-introduce/)
-2.  [Các bước chuẩn bị môi trường](2-prerequisite/)
-3.  [Xây dựng Backend với Node.js và Express](3-backend/)
-4.  [Xây dựng Frontend - Giao diện và Hiển thị cơ bản](4-frontend-basic/)
-5.  [Triển khai các tính năng chính](5-main-features/)
-6.  [Hoàn thiện giao diện và hiệu ứng](6-polishing/)
-7.  [Tổng kết và Mở rộng](7-summary/)
-
----
-
 ### Chức năng chính của dự án
 
 ℹ️ Ứng dụng này không chỉ hiển thị thông tin thời tiết cơ bản mà còn tích hợp nhiều tính năng nâng cao để mang lại trải nghiệm tốt nhất cho người dùng.

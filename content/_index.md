@@ -12,18 +12,6 @@ In this workshop, you will be guided step-by-step to build a complete and highly
 
 ![Weather App Preview](/images/default-fe.png) 
 
-### Content
-
-1.  [Introduction and Architectural Overview](1-introduce/)
-2.  [Environment Setup Prerequisites](2-prerequisite/)
-3.  [Building the Backend with Node.js and Express](3-backend/)
-4.  [Building the Frontend - UI and Basic Display](4-frontend-basic/)
-5.  [Implementing Key Features](5-main-features/)
-6.  [Polishing the UI and Animations](6-polishing/)
-7.  [Summary and Further Steps](7-summary/)
-
----
-
 ### Key Project Features
 
 ℹ️ This application not only displays basic weather information but also integrates many advanced features to provide the best user experience.
