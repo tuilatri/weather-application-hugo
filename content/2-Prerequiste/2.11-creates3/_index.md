@@ -33,20 +33,9 @@ pre : " <b> 2.11 </b> "
     {{% /notice %}}
 *   **AWS Region:** Select the Region you are working in.
 
-*   **Object Ownership:** Select `ACLs enabled`.
-    {{% notice info %}}
-    We select this option to be able to grant public access to individual files using Access Control Lists (ACL), a necessary method for the next configuration step.
-    {{% /notice %}}
-
-{{< figure src="/images/2.prerequisite/2.11-creates3/s3-basic-config-acl.png" title="Configuring name, Region, and enabling ACLs" >}}
-
 #### **3. Configure Public Access Settings**
 
 *   Check the box for **Block all public access**.
-
-{{% notice warning %}}
-This step allows us to make objects in the bucket publicly accessible. In the following steps, CloudFront will be configured to protect this bucket more securely.
-{{% /notice %}}
 
 {{< figure src="/images/2.prerequisite/2.11-creates3/s3-enable-block-public-access.png" title="Enabling Block Public Access" >}}
 

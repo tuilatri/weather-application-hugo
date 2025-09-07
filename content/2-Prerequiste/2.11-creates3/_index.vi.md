@@ -33,20 +33,9 @@ pre : " <b> 2.11 </b> "
     {{% /notice %}}
 *   **AWS Region:** Chọn Region bạn đang làm việc.
 
-*   **Object Ownership:** Chọn `ACLs enabled`.
-    {{% notice info %}}
-    Chúng ta chọn tùy chọn này để có thể cấp quyền công khai cho từng tệp riêng lẻ bằng Access Control Lists (ACL), một phương pháp cần thiết cho bước cấu hình tiếp theo.
-    {{% /notice %}}
-
-{{< figure src="/images/2.prerequisite/2.11-creates3/s3-basic-config-acl.png" title="Cấu hình tên, Region và bật ACLs" >}}
-
 #### **3. Cấu hình Public Access Settings**
 
 *   Tích ở ô **Block all public access**.
-
-{{% notice warning %}}
-Bước này cho phép chúng ta làm cho các đối tượng trong bucket có thể truy cập công khai. Trong các bước tiếp theo, CloudFront sẽ được cấu hình để bảo vệ bucket này một cách an toàn hơn.
-{{% /notice %}}
 
 {{< figure src="/images/2.prerequisite/2.11-creates3/s3-enable-block-public-access.png" title="Bật Block Public Access" >}}
 
